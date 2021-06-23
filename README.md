@@ -1,7 +1,7 @@
 # Sorting_Algo.
 Implementation_of_Sorting_Algorithms
 
-Sorting Algo. in Python 
+Sorting Algo. in Python and C
 
 -> 1. Insertion Sort 
 
@@ -16,3 +16,4 @@ Sorting Algo. in Python
 -> 6. Radix Sort
 
 -> 7. Counting Sort
+
